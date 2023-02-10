@@ -1,8 +1,10 @@
-
-
-<div align="center">
+<div align="right">
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdetail54%2Fhit-counter&count_bg=%2300020B&title_bg=%231B4BFF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</div>
+
+<div align="center">
 
   ![header](https://capsule-render.vercel.app/api?type=slice&color=3943EF&text=Hi%20Hi~&animation=blink&fontAlign=85)
 
