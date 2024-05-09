@@ -1,8 +1,4 @@
-<div align="right">
-  
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdetail54%2Fhit-counter&count_bg=%2300020B&title_bg=%231B4BFF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-</div>
 
 <div align="center">
 
@@ -24,13 +20,6 @@
     <img src="https://img.shields.io/badge/Next-000000?style=flat-square&logo=Next.js&logoColor=white"/><br/>
   </div>
   
-  #### A Little
-  
-  <div>
-    <img src="https://img.shields.io/badge/Node-339933?style=flat-square&logo=Node.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Nest-E0234E?style=flat-square&logo=NestJs&logoColor=white"/>
-    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
-  </div>
 
   ## 📌 tools 
 
