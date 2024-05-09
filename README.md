@@ -2,7 +2,6 @@
 
 <div align="center">
 
-  ![header](https://capsule-render.vercel.app/api?type=slice&color=3943EF&text=Hi%20Hi~&animation=blink&fontAlign=85)
 
 
   ## 📚 Stack 
